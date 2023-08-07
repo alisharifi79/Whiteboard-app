@@ -1,0 +1,31 @@
+.header{
+    margin: 10px;
+    padding: 5px 10px;
+    background-color: #2e3b6800;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 4px;
+    font-size: 18px;
+  }
+  .drawingButton{
+    margin: 10px;
+    padding: 5px 10px;
+    background-color: #2e3b68;
+    font-size: 18px;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 4px;
+  }
+  .clearButton {
+    background-color: #f44336;
+    margin: 10px;
+    padding: 5px 10px;
+    font-size: 18px;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 4px;
+  }
+  
